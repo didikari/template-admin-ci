@@ -1,0 +1,12 @@
+{
+	"require": {
+		"google/apiclient": "^2.11",
+		"endroid/qr-code": "^4.4",
+		"dompdf/dompdf": "^1.0",
+		"vlucas/phpdotenv": "^3.6",
+		"box/spout": "^3.3",
+		"phpoffice/phpspreadsheet": "^1.25",
+		"illuminate/pagination": "8.83.27",
+		"illuminate/database": "^8.83"
+	}
+}
